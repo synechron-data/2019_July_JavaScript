@@ -1,0 +1,16 @@
+Primitive Types - Immutable
+
+	primitive value
+		undefined
+		null
+	
+	primitive datatypes
+		string			String()
+		number			Number()
+		boolean			Boolean()
+		symbol (ES6)		Symbol()
+		bigint (Stage 3)	BigInt()
+		
+Object Types - Mutable
+
+function	Function()
